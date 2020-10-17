@@ -1,4 +1,8 @@
+@charset "UTF-8";
 
-.icon-clock:before { content: '\e800'; } /* '' */
-.icon-location:before { content: '\e801'; } /* '' */
-.icon-phone:before { content: '\e802'; } /* '' */
+ 
+.icon-mail:before { content: '\2709'; } /* '✉' */
+.icon-location:before { content: '\e724'; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
+.icon-phone:before { content: '📞'; } /* '\1f4de' */
+.icon-clock:before { content: '🕔'; } /* '\1f554' */

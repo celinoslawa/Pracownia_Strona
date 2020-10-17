@@ -126,22 +126,24 @@ color: #000000;
  
         
    #footer{
-   	text-align: center;
-      color:#6F4F62;
+      border-top: 2px solid #a30303;
+      text-align: center;
+      color:#000000;
       text-align: center;
       padding:10px;
    }
    
    .otitle{
-   	border-top: :1px solid #a30303;
-		border-bottom: 1px solid #a30303;
-		background-color: #ffffff;
-		font-size: 20px;
-		padding:10px; 
+   	/*border-top: 1px solid #a30303;*/
+	border-bottom: 1px solid #a30303;
+	background-color: #ffffff;
+	font-size: 20px;
+	padding:10px; 
    }
    
    .link:hover{
-  		 font-weight: bold;   
+  		 font-weight: bold;
+                 
     }
     .link{
         text-decoration: underline;
@@ -168,9 +170,19 @@ color: #000000;
      #tel{
         float: left;
     }
+    
+    #iconM{
+        float: left;
+        padding-left: 10px;
+        padding-right: 10px;
+     }
+        
+     #mail{
+        float: left;
+    }
         
      #iconC{
-        	float: left;
+        float: left;
         padding-left: 10px;
         padding-right: 10px;
     }

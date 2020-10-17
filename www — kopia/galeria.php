@@ -2,20 +2,23 @@
 <html lang="pl">
     <body>
     <?php
-    	$imagesTotal=12;
+    	$imagesTotal=15;
     	
     	$description[1] = 'fot. Agniefotszka Skawiańczyk';
 		$description[2] = 'fot. Agniefotszka Skawiańczyk';
 		$description[3] = 'fot. Agniefotszka Skawiańczyk';
-		$description[4] = 'fot. Agniefotszka Skawiańczyk';
-		$description[5] = 'fot. Agniefotszka Skawiańczyk';
-		$description[6] = 'fot. Agniefotszka Skawiańczyk';
-		$description[7] = 'fot. Agniefotszka Skawiańczyk';
-		$description[8] = 'fot. Agniefotszka Skawiańczyk';
-		$description[9] = 'fot. Agniefotszka Skawiańczyk';
-		$description[10] = 'fot. Agniefotszka Skawiańczyk';
-		$description[11] = 'fot. Agniefotszka Skawiańczyk';
-		$description[12] = 'fot. Agniefotszka Skawiańczyk';
+		$description[4] = 'Nasze realizacje';
+		$description[5] = 'Nasze realizacje';
+		$description[6] = 'Nasze realizacje';
+		$description[7] = 'Nasze realizacje';
+		$description[8] = 'Nasze realizacje';
+		$description[9] = 'Nasze realizacje';
+		$description[10] = 'Nasze realizacje';
+		$description[11] = 'Nasze realizacje';
+		$description[12] = 'Dyplom Mistrzowski Cechu Krawieckiego';
+                $description[13] = 'Nasze realizacje';
+                $description[14] = 'Nasze realizacje';
+                $description[15] = 'Nasze realizacje';
 
     ?>
     <div class="subcontainer">
